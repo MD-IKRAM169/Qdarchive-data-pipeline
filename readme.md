@@ -1,7 +1,6 @@
 <h1 align="center">QDArchive Data Pipeline</h1>
 
 <p align="center"><strong>Automated Research Data Acquisition, Classification &amp; Analytics</strong></p>
-<p align="center">Academic Project · Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python">
