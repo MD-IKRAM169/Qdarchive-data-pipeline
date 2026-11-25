@@ -1,0 +1,59 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Downloaded research data
+/my_downloads/
+
+# Private and temporary working files
+/private/
+/scratch/
+*.log
+*.tmp
+*.bak
+
+# SQLite temporary files
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
